@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://goodgroundsservices.com/sitemap.xml
